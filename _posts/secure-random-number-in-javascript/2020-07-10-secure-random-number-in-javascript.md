@@ -131,7 +131,7 @@ const getRandomNumber = (upperBound) => {
 
 This will surely remove the modular bias. But, as you also sense it, this is not an efficient approach.
 For example, we still use `getRandom16`, but we want the random number in range of [0, 2]. It will reject too many numbers.
-When the random number size if bigger, it can result in performance issue. So we can go more to optimize the code.
+When the random number size is bigger, it can result in performance issue. So we can go more to optimize the code.
 
 In order to do so, we can use a mathematical condition that returns the uniform distribution out of modulo operation.
 
