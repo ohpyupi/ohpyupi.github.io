@@ -57,6 +57,18 @@ jekyll_compose:
 # Homepage limit posts
 number_of_posts: 5
 
+# comments settings
+comments:
+  provider: "utterances"
+  # utterances config settings
+  utterances:
+    src: https://utteranc.es/client.js
+    repo: ohpyupi/ohpyupi.github.io
+    issue_term: pathname
+    label: ✨ comment ✨
+    theme: photon-dark
+    crossorigin: anonymous
+
 # Build settings
 # theme: klise
 sass:
