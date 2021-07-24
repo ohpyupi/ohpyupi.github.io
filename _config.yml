@@ -14,7 +14,7 @@ author:
     I am a physicst who seeks for the truths of life. And my interest is to experiment those findings in my daily life and make my life and others better.
   username: ohpyupi # general username
   github: ohpyupi # github username
-  email: hoseong.a.lee@gmail.com # email adress
+  email: hoseong.a.lee@gmail.com # email address
   avatar: /assets/img/hoalee.jpg # change with your own avatar
 
 # URL settings
@@ -56,6 +56,18 @@ jekyll_compose:
 
 # Homepage limit posts
 number_of_posts: 5
+
+# comments settings
+comments:
+  provider: "utterances"
+  # utterances config settings
+  utterances:
+    src: https://utteranc.es/client.js
+    repo: ohpyupi/ohpyupi.github.io
+    issue_term: pathname
+    label: ✨ comment ✨
+    theme: photon-dark
+    crossorigin: anonymous
 
 # Build settings
 # theme: klise
