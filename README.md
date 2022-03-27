@@ -15,7 +15,7 @@ $ gem install jekyll bundler
 3. Clone the repository and install its dependencies 
 ```
 $ git clone https://github.com/ohpyupi/ohpyupi.github.io.git
-$ cd https://github.com/ohpyupi/ohpyupi.github.io.git
+$ cd ohpyupi.github.io
 $ bundle install
 ```
 
