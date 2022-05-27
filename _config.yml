@@ -8,6 +8,7 @@ image: assets/img/ogp.png # This image used for Open Graph more info https://ogp
 mode: dark # default theme "dark" | "light"
 version: v1.5.1
 
+
 # Profile settings
 author:
   name: Hoseong Lee # author name
