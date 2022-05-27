@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to write unit tests in the right Way
+title: How to write unit tests in the right way
 tags: [test, unit-test]
 date: 2022-5-25
 categories: test
