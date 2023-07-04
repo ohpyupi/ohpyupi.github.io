@@ -6,7 +6,7 @@ lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 mode: dark # default theme "dark" | "light"
-version: v1.5.2
+version: v1.5.3
 
 # Profile settings
 author:
@@ -22,7 +22,7 @@ author:
 url: "https://ohpyupi.github.io" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-0BY9KDR2H8
 fb_appid:
 
 # Collection setting
